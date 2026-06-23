@@ -3,3 +3,4 @@
 /.vitepress/cache/
 /docs/.vitepress/cache/
 /.vitepress/dist/
+/docs/.vitepress/dist/
