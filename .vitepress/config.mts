@@ -58,7 +58,7 @@ export default defineConfig({
     },
 
     nav: [
-      { text: '首页', link: '/' },
+      { text: '首页', link: '/docs' },
       { text: '更新日志', link: '/docs/fabric-update_log' },
       { text: '常见问题', link: '/docs/FAQ' },
       { text: '创建自定义形态', link: '/docs/custom_forms' }
