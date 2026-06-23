@@ -59,29 +59,29 @@ export default defineConfig({
 
     nav: [
       { text: '首页', link: '/' },
-      { text: '更新日志', link: '/fabric-update_log' },
-      { text: '常见问题', link: '/FAQ' },
-      { text: '创建自定义形态', link: '/custom_forms' }
+      { text: '更新日志', link: '/docs/fabric-update_log' },
+      { text: '常见问题', link: '/docs/FAQ' },
+      { text: '创建自定义形态', link: '/docs/custom_forms' }
     ],
 
     sidebar: [
       {
         text: '更新日志',
         items: [
-          { text: 'Fabric', link: '/fabric-update_log' },
-          { text: 'NeoForge', link: '/neoforge-update_log' }
+          { text: 'Fabric', link: '/docs/fabric-update_log' },
+          { text: 'NeoForge', link: '/docs/neoforge-update_log' }
         ]
       },
       {
         text: '常见问题',
         items: [
-          { text: 'FAQ', link: '/FAQ' }
+          { text: 'FAQ', link: '/docs/FAQ' }
         ]
       },
       {
         text: '创建自定义形态',
         items: [
-          { text: '前言', link: '/custom_forms' }
+          { text: '前言', link: '/docs/custom_forms' }
         ]
       }
     ],
